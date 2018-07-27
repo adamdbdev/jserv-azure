@@ -1,5 +1,5 @@
 {
-  "name": jserv-azure",
+  "name": "jserv-azure",
   "version": "1.0.0",
   "description": "Simple json-base database",
   "main": "server.js",
